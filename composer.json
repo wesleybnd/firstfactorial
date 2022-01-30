@@ -1,0 +1,23 @@
+{
+  "name": "wesleybnd/first_fatorial",
+  "description": "PHP * Solução para buscar o primeiro fatorial",
+  "keywords": [
+    "PHP",
+    "Fatorial"
+  ],
+  "authors": [
+    {
+      "name": "Wesley Bernardo",
+      "email": "wesleybnd@gmail.com",
+      "role": "Developer"
+    }
+  ],
+  "require": {
+    "php": "^7.1"
+  },
+  "autoload": {
+    "psr-4": {
+      "wesleybnd\\firstfactorial\\": "src"
+    }
+  }
+}
